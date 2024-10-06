@@ -1,1 +1,18 @@
 # data-engineer-notion-notes
+
+- [SQL](./topic_pages/sql.md)
+- [No SQL](https://www.example.com)
+- [Data Warehouse](https://www.example.com)
+- [Data Modeling](https://www.example.com)
+- [PySpark](https://www.example.com)
+- [Airflow](https://www.example.com)
+- [AWS](https://www.example.com)
+- [Databricks](https://www.example.com)
+- [Python](https://www.example.com)
+- [Snowflake](https://www.example.com)
+- [Linux](https://www.example.com)
+- [Kafka](https://www.example.com)
+- [Jenkins](https://www.example.com)
+- [Azure](https://www.example.com)
+- [DSA](https://www.example.com)
+- [Big data concepts](https://www.example.com)

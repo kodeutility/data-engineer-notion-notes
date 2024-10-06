@@ -1,0 +1,16 @@
+# 01-Nikolai Schuler - Data Warehouse - The Ultimate Guide
+
+01. [Introduction]()
+02. [BI, Data Lake, Data Warehouse]()
+03. [Tools Installation]()
+04. [Data warehouse architecture]()
+05. [Dimensional modeling]()
+06. [Facts]()
+07. [Dimensions]()
+08. [Slowly changing dimensions]()
+09. [ETL Tools]()
+10. [Creating a Datawarehouse-Project]()
+11. [ETL vs ELT]()
+12. [Using a Data Warehouse]()
+13. [Optimizng a Data Warehouse]()
+14. [The Modern Data Warehouse](/pdf_repo/dwh-01-14.pdf)
