@@ -6,7 +6,7 @@
 04. [Data warehouse architecture](/pdf_repo/dwh-01-04.pdf)
 05. [Dimensional modeling](/pdf_repo/dwh-01-05.pdf)
 06. [Facts](/pdf_repo/)
-07. [Dimensions](/pdf_repo/)
+07. [Dimensions](/pdf_repo/dwh-01-07.pdf)
 08. [Slowly changing dimensions](/pdf_repo/dwh-01-08.pdf)
 09. [ETL Process](/pdf_repo/dwh-01-09.pdf)
 10. [ETL Tools](/pdf_repo/dwh-01-10.pdf)
