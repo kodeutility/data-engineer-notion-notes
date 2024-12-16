@@ -14,5 +14,5 @@
 - [Kafka](./topic_pages/kafka.md)
 - [Jenkins](./topic_pages/jenkins.md)
 - [Azure](./topic_pages/azure.md)
-- [DSA](./topic_pages/big-data-concepts.md)
-- [Big data concepts](./topic_pages)
+- [DSA](./topic_pages/dsa.md)
+- [Big data concepts](./topic_pages/big-data-concepts.md)
