@@ -1,4 +1,4 @@
-# 01-Nikolai Schuler - Data Warehouse - The Ultimate Guide
+# Nikolai Schuler - Data Warehouse - The Ultimate Guide
 
 01. [Introduction](/pdf_repo/dwh-01-01.pdf)
 02. [BI, Data Lake, Data Warehouse](/pdf_repo/dwh-01-02.pdf)
